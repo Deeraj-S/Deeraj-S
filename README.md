@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Deeraj</h2><br><br>
+<h2 align="center">Hi 👋, I'm Deeraj</h2>
 <p align="center">A passionate Full Stack Developer</p>
 <p align="center">🚀 Coding like there's no merge conflict tomorrow!</p>
 <p align="center">💬If you have inquiries about JavaScript or require support in MERN stack app development, feel free to get in touch. I'm available to provide assistance.</p>

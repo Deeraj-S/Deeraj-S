@@ -16,8 +16,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deeraj-S&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Deeraj-S&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeraj-S&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deeraj-S&theme=react&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeraj-S&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Deeraj-S&icon=0&color=9)](https://visitcount.itsvg.in)

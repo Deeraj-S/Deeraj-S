@@ -1,7 +1,7 @@
 <br><h2 align="center">Hi 👋, I'm Deeraj</h2>
 
 
-<p align="center" margin="20px">A passionate Full Stack Developer</p>
+<p align="center" margin="5rem">A passionate Full Stack Developer</p>
 <p align="center">🚀 Coding like there's no merge conflict tomorrow!</p>
 <p align="center">💬If you have inquiries about JavaScript or require support in MERN stack app development, feel free to get in touch. I'm available to provide assistance.</p>
 <p align="center">📫 How to reach me : hpdeeraj2000@gmail.com</p>

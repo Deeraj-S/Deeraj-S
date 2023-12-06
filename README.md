@@ -1,10 +1,10 @@
 # 💫 About Me:
-<b align="center">Hi 👋, I'm Deeraj</b><br>
-A passionate Full Stack Developer<br>
-🚀 Coding like there's no merge conflict tomorrow!<br>
-💬If you have inquiries about JavaScript or require support in MERN stack app development, feel free to get in touch. I'm available to provide assistance.<br>
-📫 How to reach me **hpdeeraj2000@gmail.com**<br>
-⚡ Fun fact :    I don't always write bugs, but when I do, I make sure to call them "undocumented features."
+<p align="center">Hi 👋, I'm Deeraj</p><br>
+<p align="center">A passionate Full Stack Developer</p><br>
+<p align="center">🚀 Coding like there's no merge conflict tomorrow!</p><br>
+<p align="center">💬If you have inquiries about JavaScript or require support in MERN stack app development, feel free to get in touch. I'm available to provide assistance.</p><br>
+<p align="center">📫 How to reach me **hpdeeraj2000@gmail.com**</p><br>
+<p align="center">⚡ Fun fact :    I don't always write bugs, but when I do, I make sure to call them "undocumented features."</p>
 
 
 ## 🌐 Socials:

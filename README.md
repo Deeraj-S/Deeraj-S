@@ -13,7 +13,7 @@
 <a href="https://instagram.com/_dee.raj_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  &nbs;
+  &nbsp;
 
   <a href="https://linkedin.com/in/in/deeraj-s" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge">

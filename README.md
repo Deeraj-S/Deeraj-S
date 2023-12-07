@@ -69,7 +69,7 @@
 </div>
 <br>
 <h1 align="center">📊 GitHub Stats</h1>
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deeraj-S&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>

@@ -1,4 +1,5 @@
 <br><h1 align="center">Hi 👋, I'm Deeraj</h1>
+<br>
 <p align="center" margin="5rem">A passionate Full Stack Developer</p>
 <p align="center">🚀 Coding like there's no merge conflict tomorrow!</p>
 <p align="center">💬If you have inquiries about JavaScript or require support in MERN stack app development, feel free to get in touch. I'm available to provide assistance.</p>
@@ -7,6 +8,7 @@
 
 
 <br><h2 align="center">🌐 Socials</h2> 
+<br>
 <div align="center">
 <a href="https://instagram.com/_dee.raj_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge">
@@ -63,13 +65,8 @@
 
   </div>
 
-  
-  
-  
-  
-  
-  
-  </div>
+</div>
+<br>
 <h1 align="center">📊 GitHub Stats</h1>
 
 <div align="center">

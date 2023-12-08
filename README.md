@@ -6,7 +6,6 @@
 <p align="center">📫 How to reach me : hpdeeraj2000@gmail.com</p>
 <p align="center">⚡ Fun fact :    I don't always write bugs, but when I do, I make sure to call them "undocumented features."</p>
 
-
 <br><h2 align="center">🌐 Socials</h2> 
 <br>
 <div align="center">
